@@ -1,6 +1,1 @@
-print("hi")
-print("hi")
-print("hi")
-print("hi")
-print("hi")
-input("lskdajfalsdjfls;afj;jSSS")
+print("jd;flsajlfjla;fjsldkfjlsa")

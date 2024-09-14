@@ -1,6 +1,7 @@
-print("hi")
-print("hi")
-print("hi")
-print("hi")
-print("hi")
-input("lskdajfalsdjfls;afj;jSSS")
+print ("zaki is gaot ")
+
+
+#fewhgfjshaflkjhaslkfhak
+
+
+#kolfjdfhs
